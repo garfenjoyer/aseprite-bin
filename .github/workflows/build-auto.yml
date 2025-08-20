@@ -1,5 +1,5 @@
-name: build-auto
 on: workflow_dispatch
+name: build-auto
   push:
     paths:
     - '.github/workflows/build-auto.yml'
